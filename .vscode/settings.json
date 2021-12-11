@@ -1,0 +1,6 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysSignOff": true,
+    "github-enterprise.uri": "https://github.com/kayarat"
+}

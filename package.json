@@ -1,0 +1,23 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Typescript basics",
+  "main": "Object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayarat/ge-meet.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "Vivek Kayarat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kayarat/ge-meet/issues"
+  },
+  "homepage": "https://github.com/kayarat/ge-meet#readme"
+}
